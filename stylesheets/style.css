@@ -1,0 +1,111 @@
+
+body {
+    background: white;
+    font-family: Optima, "Open Sans", sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+/* The navbar container */
+.topnav {
+    overflow: hidden;
+    background-color: #f2f2f2;
+}
+  /* Navbar links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  /* Links - change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+/*---Header--*/
+.header {
+    background-color:#f2f2f2;
+    text-align: center;
+    padding: 20px;
+}
+/*--Footer---*/
+.footer {
+    text-align: center;
+ }
+/*---list css*/
+li {
+  display: block; 
+  margin-top: auto;
+  margin-bottom: 2em;
+  color: black;
+}
+div.a {
+    text-indent: 30px;
+}
+.sectiontitle {
+    color: black;
+    font-family: Optima;
+    font-size: 30px;
+    font-style:normal;
+    text-align: center;
+}
+.subtitle {
+    color: black;
+    font-family: Optima;
+    font-size: 18px;
+    font-style:normal;
+    text-align: center;
+}
+.bullet {
+    color: rgb(5, 5, 5);
+    font-family: Optima;
+    font-size: 16px;
+    font-style: normal;
+    text-align: center;
+}
+.subbullet {
+    color: rgb(14, 4, 158);
+    font-family: Optima;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+p {
+    color: rgb(5, 5, 5);
+    font-family: Optima;
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+}
+.tab {
+    color: rgb(5, 5, 5);
+    font-family: Optima;
+    font-size: 18px;
+    font-style: normal;
+    text-align: left;
+}
+.subtab {
+    color: rgb(5, 5, 5);
+    font-family: Optima;
+    font-size: 16px;
+    font-style: normal;
+    text-align: left;
+}
+a:link,
+a:visited {
+    color: rgb(15, 15, 15);
+}
+a:hover {
+    color: rgb(216, 84, 124);
+}
+a:active {
+    background: rgb(19, 204, 218);
+    color: lavenderblush;
+}
+
+/* Images */
+.images {
+    text-align: center;
+}
