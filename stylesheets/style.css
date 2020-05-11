@@ -79,6 +79,13 @@ p {
     font-style: normal;
     text-align: center;
 }
+.subparagraph {
+    color: rgb(5, 5, 5);
+    font-family: Optima;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+}
 .tab {
     color: rgb(5, 5, 5);
     font-family: Optima;
